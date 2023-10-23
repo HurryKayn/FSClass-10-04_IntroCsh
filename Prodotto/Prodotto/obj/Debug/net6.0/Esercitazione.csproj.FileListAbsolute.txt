@@ -1,0 +1,14 @@
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\bin\Debug\net6.0\Esercitazione.exe
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\bin\Debug\net6.0\Esercitazione.deps.json
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\bin\Debug\net6.0\Esercitazione.runtimeconfig.json
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\bin\Debug\net6.0\Esercitazione.dll
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\bin\Debug\net6.0\Esercitazione.pdb
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.AssemblyInfoInputs.cache
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.AssemblyInfo.cs
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.csproj.CoreCompileInputs.cache
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.dll
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\refint\Esercitazione.dll
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.pdb
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\Esercitazione.genruntimeconfig.cache
+D:\Personal\Programming\vs22\c231004\Prodotto\Prodotto\obj\Debug\net6.0\ref\Esercitazione.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EsercitazioneProdotti/1.0.0": {
+        "dependencies": {
+          "MagLibrary": "1.0.0"
+        },
+        "runtime": {
+          "EsercitazioneProdotti.dll": {}
+        }
+      },
+      "MagLibrary/1.0.0": {
+        "runtime": {
+          "MagLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EsercitazioneProdotti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MagLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
